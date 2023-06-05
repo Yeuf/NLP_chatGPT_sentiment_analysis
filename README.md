@@ -40,3 +40,5 @@ The data is analyzed to find the most common words for positive, negative, and n
 ## Word Cloud
 
 A word cloud is generated using the lemmatized content of the tweets.
+
+![Wordcloud](/twitter_wordcloud.png)
